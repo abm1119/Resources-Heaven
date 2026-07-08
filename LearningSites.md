@@ -38,7 +38,7 @@ Part of the **Resources Heaven** collection under **Prologware Solutions** — a
 | Amazon Training | https://aws.amazon.com/training | Free & Paid | Cloud & Tech Training |
 | Anthropic Academy | https://anthropic.skilljar.com | Free | AI Safety & LLM |
 | APXML Courses  | https://apxml.com/courses  | Free | Advanced AI & Tech |
-| Backprop | URLhttps://www.backprop.site/ | Free | CategoryAI & Machine Learning |
+| Backprop | https://www.backprop.site/ | Free | CategoryAI & Machine Learning |
 | BBC Podcast | https://www.bbc.co.uk/sounds | Free | Podcast / Education |
 | Brilliant | https://brilliant.org/home/ | Free & Paid | Problem-Solving & Math |
 | BitDegree | https://www.bitdegree.org | Free & Paid | Coding / Blockchain |
@@ -108,7 +108,7 @@ Part of the **Resources Heaven** collection under **Prologware Solutions** — a
 | Research with Suraj | https://research.surajgaud.com/ | Free | AI Research |
 | Roadmap.sh | https://roadmap.sh/ | Free | Developer Roadmaps |
 | Rouxbe Cooking School | https://rouxbe.com | Paid | Cooking Education |
-| SadServers | URLhttps://sadservers.com/ | Free & Paid | DevOps & Linux Troubleshooting |
+| SadServers | https://sadservers.com/ | Free & Paid | DevOps & Linux Troubleshooting |
 | Santander Open Academy | https://www.santanderopenacademy.com/ | Free | Free Courses & Scholarships |
 | Saylor Academy | https://learn.saylor.org/ | Free | University Courses |
 | SimplAI University | https://simplai.ai/simplai-university | Free | AI & LLM Learning |
