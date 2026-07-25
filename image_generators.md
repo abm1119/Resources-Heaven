@@ -7,7 +7,7 @@ Here is the fully updated and perfectly structured collection. I have separated 
 ### 1.1 Closed Source / Proprietary Models
 *State-of-the-art baseline models accessed via their official commercial platforms or APIs. You cannot download the weights, but they represent the absolute frontier of prompt adherence and photorealism.*
 
-* **GPT Image 2.0 (OpenAI)**
+*   **GPT Image 2.0 (OpenAI)**
     *   *Official URL:* [openai.com](https://openai.com/)
     *   *Access Platforms:* [ChatGPT Plus](https://chatgpt.com/) | [Microsoft Copilot](https://copilot.microsoft.com/)
     *   *Description:* The conversational standard-setter. Excels at extreme prompt adherence, nuance, and logic-based image building. Allows for iterative, natural-language modifications mid-generation.
@@ -75,23 +75,23 @@ Here is the fully updated and perfectly structured collection. I have separated 
     *   *Official Link:* [firefly.adobe.com](https://firefly.adobe.com/)
     *   *Description:* Safe-for-commercial-use generation that is natively and deeply integrated into Photoshop, Illustrator, and the Adobe CC ecosystem.
     *   *Tags:* `#firefly` `#Adobe` `#ImageGeneration` 
-*  **Uni-1 (Luma AI)**
+*   **Uni-1 (Luma AI)**
     *   *Official URL:* [luma labs](https://lumalabs.ai/)
     *   *Access Platforms:* Web Browser
     *   *Description:* A unified, autoregressive transformer model designed for both image creation and surgical precision editing. It supports complex multi-reference     workflows (style, character, composition) and is built for consistent, professional-grade production.
     *   *Tags:* `#LumaAI` `#Uni1` `#CreativeControl` 
-*  **seedream 5.0 Lite (Bytedance) / SeedEdit 3.0**
+*   **seedream 5.0 Lite (Bytedance) / SeedEdit 3.0**
     *   *Official URL:* [Byteplus Seedream](https://www.byteplus.com/en/product/Seedream) | [Playground - Byteplus](https://ai.byteplus.com/en/playground) | [free-alter](https://seedream.pro/)
     *   *Access Platforms:* Web Browser
     *   *Description:* A unified, autoregressive transformer model designed for both image creation and surgical precision editing. It supports complex multi-reference     workflows (style, character, composition) and is built for consistent, professional-grade production.
     *   *Tags:* `#LumaAI` `#Uni1` `#CreativeControl` 
-*  **MAI-Image-2.5**
+*   **MAI-Image-2.5**
     *   *Official URL:* [MAI Playground](https://playground.microsoft.ai/)
     *   *Access Platforms:* Web Browser
     *   *Description:* Create high-quality, photorealistic, and design-ready images from simple text prompts or uploaded images.
     *   *Tags:* `#MAI-Image2.5` `#MicrosfotAI` `#MAI` 
 
-* **Agnes-Image-2.1-Flash (Agnes AI)**
+*   **Agnes-Image-2.1-Flash (Agnes AI)**
     * *Official URL:* [agnes-ai.com](https://agnes-ai.com/en/docs/agnes-image-21-flash)
     * *Access Platforms:* [Agnes AI Web App](https://agnes-ai.com/) | [Pavo ai](https://app.pavo-ai.work/)
     * *Description:* An upgraded foundation model optimized for high-information-density visuals and complex compositions. Supports text-to-image and image-to-image workflows with strong composition preservation for editing tasks. Offers resolution tiers from 1K to 4K across multiple aspect ratios (16:9, 21:9).
@@ -156,55 +156,55 @@ Here is the fully updated and perfectly structured collection. I have separated 
     *   *Platforms:* [Fal.ai](https://fal.ai/)
     *   *Description:* Highly underrated open-source models experimenting with next-gen flow-matching and transformer architectures.
     *   *Tags:* `#Experimental` `#FlowMatching`
- * **SenseNova U1 / SenseNova Interrevealed**
+ *  **SenseNova U1 / SenseNova Interrevealed**
     *   *Official URL:* [Studio](https://unify.light-ai.top/home)
     *   *GitHub:* [OpenSenseNova/SenseNova-U1](https://github.com/OpenSenseNova/SenseNova-U1)
     *   *Hugging Face:* [Sensenova-u1 HF](https://huggingface.co/collections/sensenova/sensenova-u1)
     *   *Description:* Designing busy layouts like charts, posters, and business slides where reading and looking mix together smoothly by neo unified architecture.
     *   *Tags:* `#MultimodalAI` `#Infographics` `#SenseNovaU1`
- * **Erine Image (Baidu)**
+ *  **Erine Image (Baidu)**
     *   *Official URL:* [Studio](https://aistudio.baidu.com/overview)
     *   *GitHub:* [repo - Baidu Erine Image](https://github.com/baidu/ernie-image)
     *   *Hugging Face:* [Baidu Erine Image HF](https://huggingface.co/baidu/ERNIE-Image)
     *   *Description:* 8-billion parameter open-weights model celebrated for its industry-leading bilingual text rendering and hyperrealistic human
     *   *Tags:* `#MultimodalAI` `#Infographics` `#SenseNovaU1`
-* **Longcat Image / Longcat Image-Edit**
+*   **Longcat Image / Longcat Image-Edit**
     *   *Official URL:* [Longcat AI](https://www.longcatai.net/longcat-image)
     *   *GitHub:* [repo - Longcat Image](https://github.com/meituan-longcat/LongCat-Image)
     *   *Hugging Face:* [Longcat Image Models HF](https://huggingface.co/meituan-longcat/models)
     *   *Description:* Generate posters, product shots, and academic figures with Meituan’s 6B LongCat-Image model. Photoreal detail, readable bilingual - T2I, I2I.
     *   *Tags:* `#LongCatAI` `#LongCatimage` `#Longcat-EditImages`
-* **Step1X-Edit (Stepfun)**
+*   **Step1X-Edit (Stepfun)**
     *   *Official URL:* [Step Image Edit](https://platform.stepfun.com/docs/zh/guides/models/step-image-edit-2)
     *   *GitHub:* [repo - Stepfun/Step1X-Edit](https://github.com/stepfun-ai/Step1X-Edit) | [RegionE](https://github.com/Peyton-Chen/RegionE)
     *   *Hugging Face:* [Stepfun/Step1X-Edit HF](https://huggingface.co/stepfun-ai/Step1X-Edit)
     *   *Description:* Very Basic Image Model, Generate images by Text, small resoning capabilities , enhance by RegionE
     *   *Tags:* `#Stepfun` `#Step1X-Edit`
-* **FIBO (BRIA AI) / FIBO-Lite**
+*   **FIBO (BRIA AI) / FIBO-Lite**
     *   *Official URL:* [FIBO ](https://platform.bria.ai/image-generation/fibo-generate/sandbox) | [FIBO Lite](https://bria.ai/fibo-lite)
     *   *GitHub:* [repo - FIBO](https://github.com/Bria-AI/FIBO) 
     *   *Hugging Face:* [FIBO HF](https://huggingface.co/briaai/FIBO)
     *   *Description:* The flagship text-to-image model developed by Bria, focused on professional-grade controllability and structured generation. It provides robust prompt adherence and is optimized for workflows that require consistent, high-fidelity visual outputs in commercial environments.
     *   *Tags:* `#BriaAI` `#FIBO` `#EnterpriseAI`
- * **HunyuanImage-3.0 (Tencent)**
+ *  **HunyuanImage-3.0 (Tencent)**
     *   *Official URL:* [Studio](https://imagenx.art/hunyuan-image)
     *   *GitHub:* [repo - Hunyuan Image](https://github.com/Tencent-Hunyuan/HunyuanImage-3.0)
     *   *Hugging Face:* [HunyuanImage HF](https://huggingface.co/tencent/HunyuanImage-3.0/tree/main)
     *   *Description:* HunyuanImage-3.0: A Powerful Native Multimodal Model for Image Generation.
     *   *Tags:* `#Tencent` `#HunyuanAI` `#HunyuanImage`
- * **BAGEL (Bytedance Seed)**
+ *  **BAGEL (Bytedance Seed)**
     *   *Official URL:* [Platform](https://bagel-ai.org/)
     *   *GitHub:* [repo - Bytedance Bagel Image](https://github.com/bytedance-seed/BAGEL)
     *   *Hugging Face:* [Bytedance-Seed/BAGEL-7B-MoT] | [ByteDance-Seed/BAGEL-7B-MoT-HF](https://huggingface.co/ByteDance-Seed/BAGEL-7B-MoT-HF)
     *   *Description:*  open-source Unified Multimodal Model you can fine-tune, distill and deploy anywhere, offering comparable functionality to proprietary systems like GPT-4o and Gemini 2.0 in an open form, unlocks useful and valuable image generation through a natively multimodal architecture capable of precise, accurate, and photorealistic outputs.
     *   *Tags:* `#Bytedance` `#Bangel` `#MultimodelModel`
-* **Bonsai (1-bit)**
+*   **Bonsai (1-bit)**
     *   *Official URL:* [Platform](https://prismml.com/)
     *   *GitHub:* [Bonsai Demo on GitHub](https://github.com/PrismML-Eng/Bonsai-demo/)
     *   *Hugging Face:* [Bonsai Models on Hugging Face](https://huggingface.co/prism-ml/models)
     *   *Description:*  Open Source, And compact AI model from PrismML, known for 1-bit quantization that reduces resource usage while maintaining performance. Ideal for edge AI, IoT, and mobile devices.
     *   *Tags:* `#1-bitQuantization` `#Bonsai` `#PrismML`
-* **Boogu-Image 0.1:**  
+*   **Boogu-Image 0.1:**  
     *   *Official URL:* [Boogu Image Project Website](https://booguimage.com/)  
     *   *GitHub:* [Boogu Image 0.1 on GitHub](https://github.com/boogu-project/Boogu-Image)  
     *   *Hugging Face:* [Boogu-Image 0.1 on Hugging Face](https://huggingface.co/Boogu/Boogu-Image-0.1-Base/tree/main)  
