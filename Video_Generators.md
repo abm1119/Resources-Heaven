@@ -32,7 +32,7 @@ These are proprietary models typically accessed via a web interface or API.
 | **Lunair.ai** | [lunair.ai](https://lunair.ai/) | Browser-based explainer or landing-page style AI video generator. | Explainer, Marketing | Verified Public |
 | **Pruna P-Video** | [pruna.ai/p-video](https://www.pruna.ai/p-video) | Fast controllable multimodal video model API. | T2V, I2V, API | Verified Official |
 | **Pruna P-Avatar** | [pruna.ai/p-video-avatar](https://www.pruna.ai/p-video-avatar) | Speech-driven avatar generation product. | Avatar, Speech-driven | Verified Official |
-
+| **Agnes-Video-V2.0** | [agnes-ai.com](https://agnes-ai.com) | Agnes AI's video generation model with native audio, strong image-to-video performance, and extremely low-cost API pricing. | T2V, I2V, Audio, Low-Cost | Verified Official |
 ---
 
 # 2) Open-Source / Open-Weights Video Models

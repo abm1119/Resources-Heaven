@@ -53,6 +53,7 @@
 | SciSpace | https://scispace.com | Chat with PDFs, extracts methods/limitations, Deep Review | Summarize dozens |  |
 | Tlooto | https://tlooto.com | AI research workspace | Synthesis |  |
 | Scholarcy | URLhttps://www.scholarcy.com/ | AI article summarizer and flashcard generator. | Rapid screening of papers and extracting key facts. | NotebookLM Alternative |
+| alphaXiv | https://www.alphaxiv.org | Real-time paper discussions and annotations | Collaborative peer review | Features a browser extension for arXiv overlays |
 | autoarxiv.org | https://autoarxiv.org | Swap arxiv.org → autoarxiv.org to auto-run the paper's code: fixes setup, runs a minimal reproduction, and estimates full replication cost | Quickly testing reproducibility and compute budget | Launched by alphaXiv; one-click autoresearch, not just a reader |
 |moara.io | https://www.moara.io | AI platform that searches 100M+ papers, extracts key insights, and builds review databases | Narrative & systematic literature reviews | |
 
@@ -129,6 +130,7 @@
 | Tool Name | URL | Strength | Best For | Notes |
 |---|---|---|---|---|
 | FigureLabs.ai | https://figurelabs.ai | AI figure generation | Scientific figures |  |
+| AcaDraw | https://www.acadraw.com | Scientific illustration generation | Publication-ready technical diagrams | Exports to SVG/draw.io/Excalidraw |
 | Napkin.ai | https://napkin.ai | Generate graphics/mindmaps from text | Diagrams |  |
 | Notare.uk | https://notare.uk | Visuals clarity from complex research | Simplify findings |  |
 | Quarkdown | https://quarkdown.com | Markdown publishing for science | Documents |  |

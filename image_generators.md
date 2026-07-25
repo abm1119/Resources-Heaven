@@ -7,7 +7,7 @@ Here is the fully updated and perfectly structured collection. I have separated 
 ### 1.1 Closed Source / Proprietary Models
 *State-of-the-art baseline models accessed via their official commercial platforms or APIs. You cannot download the weights, but they represent the absolute frontier of prompt adherence and photorealism.*
 
-*   **GPT Image 2.0 (OpenAI)**
+* **GPT Image 2.0 (OpenAI)**
     *   *Official URL:* [openai.com](https://openai.com/)
     *   *Access Platforms:* [ChatGPT Plus](https://chatgpt.com/) | [Microsoft Copilot](https://copilot.microsoft.com/)
     *   *Description:* The conversational standard-setter. Excels at extreme prompt adherence, nuance, and logic-based image building. Allows for iterative, natural-language modifications mid-generation.
@@ -91,6 +91,11 @@ Here is the fully updated and perfectly structured collection. I have separated 
     *   *Description:* Create high-quality, photorealistic, and design-ready images from simple text prompts or uploaded images.
     *   *Tags:* `#MAI-Image2.5` `#MicrosfotAI` `#MAI` 
 
+* **Agnes-Image-2.1-Flash (Agnes AI)**
+    * *Official URL:* [agnes-ai.com](https://agnes-ai.com/en/docs/agnes-image-21-flash)
+    * *Access Platforms:* [Agnes AI Web App](https://agnes-ai.com/) | [Pavo ai](https://app.pavo-ai.work/)
+    * *Description:* An upgraded foundation model optimized for high-information-density visuals and complex compositions. Supports text-to-image and image-to-image workflows with strong composition preservation for editing tasks. Offers resolution tiers from 1K to 4K across multiple aspect ratios (16:9, 21:9).
+    * *Tags:* `#AgnesAI` `#ImageGeneration` `#HighResolution` `#ImageToImage` 
 ---
 
 ### 1.2 Open Source / Open Weights Models
@@ -199,7 +204,7 @@ Here is the fully updated and perfectly structured collection. I have separated 
     *   *Hugging Face:* [Bonsai Models on Hugging Face](https://huggingface.co/prism-ml/models)
     *   *Description:*  Open Source, And compact AI model from PrismML, known for 1-bit quantization that reduces resource usage while maintaining performance. Ideal for edge AI, IoT, and mobile devices.
     *   *Tags:* `#1-bitQuantization` `#Bonsai` `#PrismML`
-*   **Boogu-Image 0.1:  
+* **Boogu-Image 0.1:**  
     *   *Official URL:* [Boogu Image Project Website](https://booguimage.com/)  
     *   *GitHub:* [Boogu Image 0.1 on GitHub](https://github.com/boogu-project/Boogu-Image)  
     *   *Hugging Face:* [Boogu-Image 0.1 on Hugging Face](https://huggingface.co/Boogu/Boogu-Image-0.1-Base/tree/main)  
@@ -373,6 +378,6 @@ Here is the fully updated and perfectly structured collection. I have separated 
     *   *Description:* high-end AI image generation models, known for producing hyper-realistic, cinematic-quality images with detailed textures.
 
 ## 7. Other Platforms for Image Generators -- all in one 
-* **[Magica Image](https://image.magica.com/) - a vast library of enerators avaialble there.
-* **[Meigen - All Category prompts](https://www.meigen.ai/) - A vast ibrary of prompts to copy and apply and generate yours , video gen prompts, image and others collection.
-* **[Pixifield (Pixifield AI)](https://pixifield.com/) - A An end-to-end commercial AI studio designed for content creators and brands.
+* **[Magica Image](https://image.magica.com/)** - a vast library of enerators avaialble there.
+* **[Meigen - All Category prompts](https://www.meigen.ai/)** - A vast ibrary of prompts to copy and apply and generate yours , video gen prompts, image and others collection.
+* **[Pixifield (Pixifield AI)](https://pixifield.com/)** - A An end-to-end commercial AI studio designed for content creators and brands.
