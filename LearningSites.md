@@ -34,6 +34,7 @@ Part of the **Resources Heaven** collection under **Prologware Solutions** — a
 | Alison | https://alison.com | Free | Free Online Courses |
 | Allama Iqbal Open University | https://www.aiou.edu.pk | Paid | University |
 | AI Summer | https://theaisummer.com/start-here/ | Free | AI Learning |
+| AI Coding Dictionary | https://www.aicodingdictionary.com/ | Free | AI Advanced Terminologies |
 | AmanX AI | https://amanxai.com/ | Free | AI Learning |
 | Amazon Training | https://aws.amazon.com/training | Free & Paid | Cloud & Tech Training |
 | Anthropic Academy | https://anthropic.skilljar.com | Free | AI Safety & LLM |
@@ -91,6 +92,7 @@ Part of the **Resources Heaven** collection under **Prologware Solutions** — a
 | Harness Engineering | https://walkinglabs.github.io/learn-harness-engineering/| Free | DevOps & Engineering |
 | Learn Microsoft | https://learn.microsoft.com | Free | Microsoft Training |
 | LearnEasy | https://learneasy.pk/ | Free | Learning Platform |
+| Learn by Lyzr University | https://university.lyzr.ai/ | Free | build production-grade AI agents |
 | LearnTube | https://learntube.ai/ | Free | AI Learning Platform |
 | LinkedIn Learning | https://www.linkedin.com/learning | Paid | Professional Courses |
 | LLM Bento | https://www.llm-bento.com/learn | Free |  AI & LLM Learning |
@@ -113,6 +115,7 @@ Part of the **Resources Heaven** collection under **Prologware Solutions** — a
 | Saylor Academy | https://learn.saylor.org/ | Free | University Courses |
 | SimplAI University | https://simplai.ai/simplai-university | Free | AI & LLM Learning |
 | Simplilearn | https://www.simplilearn.com | Paid | Certification Training |
+| Sebastian Raschka Teaching | https://sebastianraschka.com/teaching/ | Free | AI Carricullum |
 | Skillshare | https://www.skillshare.com | Paid | Creative Courses |
 | Stanford Online | https://online.stanford.edu | Free & Paid | University Courses |
 | Study Hall | https://gostudyhall.com | Free & Paid | ASU University Courses |

@@ -469,3 +469,86 @@ Repository of specialized Claude (and Codex) skills/prompts tailored for academi
 - **ea-results-analyser**: Analyzes empirical findings and their significance in research papers
 - Works excellently with Obsidian, Notion, and Zotero
 - Includes tutorial PDF for easy installation and use
+
+### 35. **LLama Tutor**
+**URL:** [https://llamatutor.together.ai](https://llamatutor.together.ai)
+
+**Description:**  
+An open-source, AI-driven personal tutoring application powered by Llama models and Together AI that generates customized, interactive learning modules tailored to any specific academic topic and educational level.
+
+**Key Features / Functionality:**
+- Adaptive grade-level customization (K-12 to university level)  
+- Instant interactive course generation from textual prompts  
+- Live search API integration for contextually accurate web lookups  
+- Dynamic learning assessments and comprehension verification
+
+### 36. **DeepTutor**
+**URL:** [https://github.com/HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)
+
+**Description:**  
+An agent-native, lifelong personalized learning workspace that connects tutoring, problem-solving, and research into a single local-first environment without centralized tracking.
+
+**Key Features / Functionality:**
+- Persistent memory with local Knowledge Base (RAG) indexing
+- Web search integrations and immersive document reading  
+- Automated quiz generation and interactive problem solving  
+- Capable of streaming customized educational "books" and generating Markdown exports
+
+### 37. **ChatTutor**
+**URL:** [https://github.com/HugeCatLab/ChatTutor](https://github.com/HugeCatLab/ChatTutor)
+
+**Description:**  
+A visual and interactive AI tutor designed to facilitate engaging learning sessions, especially suited for STEM subjects, by leveraging interactive UI components beyond text-only chats
+
+**Key Features / Functionality:**
+- Real-time visual whiteboard interaction
+- Seamless integration with educational visualization tools like GeoGebra
+- Visual tool orchestration for complex STEM problems
+- Open-source and self-hosted web-based deployment
+
+### 38. **AntiVibe**
+**URL:** [https://github.com/mohi-devhub/antivibe](https://github.com/mohi-devhub/antivibe)
+
+**Description:**  
+A code learning and architectural audit framework built as a Claude Code skill that transforms AI-generated, legacy, or new code into educational deep dives, preventing uncritical copy-pasting,
+
+**Key Features / Functionality:**
+- Generates comprehensive learning guides from any given codebase  
+- Senior-level architectural audit mode for identifying trade-offs, edge cases, and testability  
+- Dynamic depth tuning across Junior, Mid, and Senior skill levels  
+- Maps implementation code to underlying CS principles and prerequisites
+
+### 39. **Engram**
+**URL:** [https://github.com/nagisanzenin/engram](https://github.com/nagisanzenin/engram)
+
+**Description:**  
+An evidence-based learning engine designed for human knowledge retention rather than agent memory. It acts as a strict tutor to ensure comprehension through spaced repetition and blind verification.
+
+**Key Features / Functionality:**
+- Spaced repetition scheduling via the FSRS algorithm  
+- Blind free-recall testing with receipts to verify true human understanding  - First-principles curriculum decomposition and topic graphing  
+- Interactive explorable visuals and practice-based skill ladders for procedural knowledge.
+
+### 40. **Oboe**
+**URL:** [https://oboe.com/](https://oboe.com/)
+
+**Description:**  
+An innovative, multi-modal AI learning engine that synthesizes complex topics into structured, consumable formats, generating personalized courses dynamically.
+
+**Key Features / Functionality:**
+- Auto-generated audio lessons and educational podcasts
+- Interactive digital flashcards and slides
+- Automated quiz generation for ongoing assessment
+- Personalized and adaptive structured learning pathways
+
+### 41. **Vovy.ai**
+**URL:** [https://vovy.ai](https://vovy.ai)
+
+**Description:**  
+An AI prompt enhancement tool acting as a "grammar checker" for AI coding. It upgrades plain-text ideas into clear, structured prompts optimized for AI app builders and integrated development environments.
+
+**Key Features / Functionality:**
+- Instantly upgrades prompts for tools like Lovable, Replit, and v0
+- Automated structured requirement generation
+- Reduces AI hallucinations and retries for faster application builds
+- Seamless context alignment for web app builders

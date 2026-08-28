@@ -209,7 +209,7 @@ Here is the fully updated and perfectly structured collection. I have separated 
     *   *GitHub:* [Boogu Image 0.1 on GitHub](https://github.com/boogu-project/Boogu-Image)  
     *   *Hugging Face:* [Boogu-Image 0.1 on Hugging Face](https://huggingface.co/Boogu/Boogu-Image-0.1-Base/tree/main)  
     *   *Description:* An open-source image processing model designed for customization and foundational use cases. Boogu-Image 0.1 serves as a base model for image classification, object detection, and segmentation tasks, offering a starting point for developers and researchers to build upon.
-    *   *Tags:* `#BBoogu` `#Boogu-image` `#Small-Image-Model`
+    *   *Tags:* `#Boogu` `#Boogu-image`
 ---
 
 ## 2. AI-Based Graphic Designers & Infinite Canvas Tools
