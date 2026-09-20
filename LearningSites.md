@@ -70,6 +70,7 @@ Part of the **Resources Heaven** collection under **Prologware Solutions** — a
 | Free For Students | https://freeforstudents.org/row | Free | Student Resources |
 | Full Stack Open | https://fullstackopen.com/en/ | Free | Web Development |
 | FunBrain | https://www.funbrain.com | Free | Kids Education |
+|Fanout.sh | https://fanout.sh/ | Paid | AI Research & Systems Engineering | 
 | GMB Fitness | https://gmb.io | Paid | Fitness Training |
 | Google Books | https://books.google.com | Free & Paid | Digital Library |
 | Google Digital Learning | https://grow.google | Free | Career & Digital Skills |
@@ -90,13 +91,17 @@ Part of the **Resources Heaven** collection under **Prologware Solutions** — a
 | LangChain Academy | https://academy.langchain.com | Free | AI Agents / LLM |
 | Agent Academy | https://learn.agentacademy.ai/courses| Free & Paid | AI Agents / Engineering |
 | Harness Engineering | https://walkinglabs.github.io/learn-harness-engineering/| Free | DevOps & Engineering |
+| Hope to Skills | https://hopetoskills.com/ | Free | Online Course Platform / EdTech |
 | Learn Microsoft | https://learn.microsoft.com | Free | Microsoft Training |
 | LearnEasy | https://learneasy.pk/ | Free | Learning Platform |
 | Learn by Lyzr University | https://university.lyzr.ai/ | Free | build production-grade AI agents |
 | LearnTube | https://learntube.ai/ | Free | AI Learning Platform |
+| Learning Hub by Meta ai | https://ai.meta.com/learn/ | Free | AI Fundamentals & Practical Guides | 
+| LeetGPU | https://leetgpu.com/ | Free | GPU & CUDA Programming / Practice Playground |
 | LinkedIn Learning | https://www.linkedin.com/learning | Paid | Professional Courses |
 | LLM Bento | https://www.llm-bento.com/learn | Free |  AI & LLM Learning |
 | Make Projects | https://makezine.com | Free | Maker Projects |
+| Mastering Backend | https://courses.masteringbackend.com/ | Paid / Freemium | Backend Software Engineering / Courses & Roadmaps |
 | Memrise | https://www.memrise.com | Free & Paid | Language Learning |
 | MIT OpenCourseWare | https://ocw.mit.edu | Free | University Courses |
 | MOOC (Finland) | https://www.mooc.fi/en/ | Free | Programming Courses |
@@ -107,7 +112,8 @@ Part of the **Resources Heaven** collection under **Prologware Solutions** — a
 | OpenAI Academy | https://academy.openai.com/ | Free | AI Learning |
 | OpenLearn | https://www.open.edu/openlearn | Free | University Learning |
 | OpenMAIC | https://open.maic.chat/ | Free | AI Interactive Classroom |
-| Research with Suraj | https://research.surajgaud.com/ | Free | AI Research |
+| Pickcode | https://pickcode.io/ | Freemium / Free Trial | Computer Science Education / Classroom IDE |
+| ReadDocs | https://readdocs.vercel.app/ | Free | Free 200+ Documentations for Devs at one place |
 | Roadmap.sh | https://roadmap.sh/ | Free | Developer Roadmaps |
 | Rouxbe Cooking School | https://rouxbe.com | Paid | Cooking Education |
 | SadServers | https://sadservers.com/ | Free & Paid | DevOps & Linux Troubleshooting |

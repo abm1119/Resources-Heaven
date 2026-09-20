@@ -27,6 +27,7 @@
 | Undermind.ai | https://undermind.ai | Deep semantic search | Exhaustive discovery |  |
 | 7Scholar | https://www.7scholar.com/ | Precision literature filtering and discovery | Filtering literature for targeted research goals.| |
 | Beeblio | https://apps.raihankalla.id/beeblio | Search the Paper that most relevant to your topic,  sifts through millions of papers to find exactly what matters to you. | | 
+| OpenRead Academy | https://www.openread.academy/ | Paper discovery and interactive AI summaries | Exploring literature and querying research papers | Features 'Paper Espresso' and AI assistant 'Oat'. |
 
 ## Mapping
 
@@ -43,7 +44,7 @@
 | Tool Name | URL | Strength | Best For | Notes |
 |---|---|---|---|---|
 | Atypica.ai | https://atypica.ai | AI research tools suite | Exploration |  |
-| Co-Space by Cohere | https://co-scope-labs.vercel.app | Collaborative AI workspace | Team synthesis |  |
+| Co-Scope by Cohere | https://co-scope-labs.vercel.app | Collaborative AI workspace | Team synthesis |  |
 | Kerns.ai | https://kerns.ai | Mindmaps, source readers, chat agents, compounds research | Long-term projects | Compounds research over time |
 | NotebookLM | https://notebooklm.google.com | Private chatbot over your corpus | Thesis chapters |  |
 | Novix | https://novix.science/chat | Chat-based research assistant | Quick paper Q&A |  |
@@ -56,6 +57,7 @@
 | alphaXiv | https://www.alphaxiv.org | Real-time paper discussions and annotations | Collaborative peer review | Features a browser extension for arXiv overlays |
 | autoarxiv.org | https://autoarxiv.org | Swap arxiv.org → autoarxiv.org to auto-run the paper's code: fixes setup, runs a minimal reproduction, and estimates full replication cost | Quickly testing reproducibility and compute budget | Launched by alphaXiv; one-click autoresearch, not just a reader |
 |moara.io | https://www.moara.io | AI platform that searches 100M+ papers, extracts key insights, and builds review databases | Narrative & systematic literature reviews | |
+| Moonlight | https://www.themoonlight.io/en | AI-optimized PDF reader for academic papers | Reading technical papers with contextual assistance | Offers line-by-line translation and equation explanation. |
 
 ## Verification & Bibliometrics
 
@@ -78,6 +80,11 @@
 | SciWritingIde | https://sciwritingide.com | Scientific writing ideas | Ideation |  |
 | StealthWriter | https://app.stealthwriter.ai | Humanizes AI text | Rewriting |  |
 | Thesify.ai | https://thesify.ai | AI writing coach | Structure feedback |  |
+| Papgram | https://papgram.com/ | Academic paraphrasing and writing assistant | Refining research drafts and checking plagiarism | |
+| Yomu AI | https://www.yomu.ai/ | Comprehensive academic writing and citation assistant | Drafting research papers and elevating quality | |
+| Harper | https://writewithharper.com/ | Fast, private grammar checking | Privacy-focused text editing | |
+| SafeWrite AI | https://safewrite.ai/ | AI detector testing and text humanization | Bypassing rigid AI checkers safely | Tests text against major tools like Turnitin and GPTZero. |
+| Gatsbi | https://www.gatsbi.com/ | AI-powered automated scholarly paper generation and research writing | Drafting complete academic manuscripts, literature reviews, and research structures | | 
 
 ## Analysis
 
@@ -90,7 +97,8 @@
 | Powerdrill Bloom | https://powerdrill.ai | AI visualization + fact-checking | Research workflows |  |
 | TinyFish AI | https://tinyfish.ai | Synthetic data | Training data |  |
 | jamovi | https://jamovi.org | Open stats | Teaching |  |
-| Public AI | https://chat.publicai.co/notes | Use for Brainstorming and Notes together and Free| |
+| Public AI | https://chat.publicai.co/notes | Use for Brainstorming and Notes together and Free| Intelligence for Free - GPT Alternative |
+
 
 ## Citation Generators
 
@@ -132,7 +140,6 @@
 | FigureLabs.ai | https://figurelabs.ai | AI figure generation | Scientific figures |  |
 | AcaDraw | https://www.acadraw.com | Scientific illustration generation | Publication-ready technical diagrams | Exports to SVG/draw.io/Excalidraw |
 | Napkin.ai | https://napkin.ai | Generate graphics/mindmaps from text | Diagrams |  |
-| Notare.uk | https://notare.uk | Visuals clarity from complex research | Simplify findings |  |
 | Quarkdown | https://quarkdown.com | Markdown publishing for science | Documents |  |
 
 ## AI Agents
@@ -163,6 +170,7 @@
 |---|---|---|---|---|
 | KausalFlow | https://tools.kausalflow.com/collections/ai/ | StrengthCurated collection of scientific automation tools. | Streamlining research workflows.| tool collections for researchers |
 | GROBID | https://grobid.readthedocs.io/ | PDF parsing into structured XML/TEI. | Transforming static PDFs into machine-readable data. | | 
+| Bit.ai | https://www.Bit.ai | Smart document and wiki creation platform | Real-time team collaboration and knowledge bases | |
 
 ## Guides
 

@@ -553,4 +553,26 @@ An AI prompt enhancement tool acting as a "grammar checker" for AI coding. It up
 - Reduces AI hallucinations and retries for faster application builds
 - Seamless context alignment for web app builders
 
+### 42. **Sidegent**
+**URL:** [https://sidegent.com](https://sidegent.com/)
+
+**Description:**  
+A browser-based learning platform that teaches developers how to build and deploy AI agents by writing real code alongside an interactive AI coding assistant.
+
+**Key Features / Functionality:**
+- In-browser live code execution environment for agentic systems.
+- Interactive, step-by-step guidance from an integrated AI assistant.
+- Project-based workflows focused on LLMs and agent architectures.
+
+### 43. **Heuristica**
+**URL:** [https://www.heuristi.ca](https://www.heuristi.ca/)
+
+**Description:**  
+An AI-powered concept mapping tool designed to help users visually structure, research, and explore complex educational topics.
+
+**Key Features / Functionality:**
+- AI-generated interactive mind maps and concept trees.
+- Infinite canvas for multi-level topic exploration and drill-down.
+- Automated synthesis of research concepts into visual nodes.
+
 
