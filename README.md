@@ -24,12 +24,15 @@ Resources Heaven is a comprehensive, community-maintained collection of learning
 | Presentation Tools | [presentation_generators.md](presentation_generators.md) | AI-powered presentation and slide generation platforms |
 | Vibe Coding Tools | [vibe_coding_tools.md](vibe_coding_tools.md) | Agentic development tools and workflow resources |
 | Vibe Coding Guide | [vibecoding_guide.md](vibecoding_guide.md) | Comprehensive guide to AI-assisted software development |
+| Voice & Audio AI Models | [voice-audio-models.md](voice-audio-models.md) | Open-source and proprietary speech, voice cloning, and audio AI tools |
 
 ## Guides
 
 Located in [Guides/](Guides/):
 
 - **[A Beginner's Guide to Academic Research](Guides/A%20Beginner's%20Guide%20to%20Academic%20Research_%20Pipeline,%20Tools,%20and%20Best%20Practices.md)** — Complete research pipeline covering discovery, mapping, synthesis, data collection, analysis, writing, and publishing workflows
+- **[First Research Paper in 1 Month - Detailed Framework](Guides/First%20Research%20Paper%20in%201%20Month%20-%20Detailed%20Framework.md)** — Comprehensive 30-day master guide for academic paper writing using the IMRaD standard
+- **[How to Write a Research Paper in 40 Steps](Guides/How%20to%20Write%20a%20Research%20Paper%20in%2040%20Steps.md)** — Step-by-step actionable checklist and execution guide for academic research papers
 - **[Vibe Coding Workflow Guide](Guides/Vibe%20Coding%20Workflow%20Guide.md)** — Agentic development best practices for modern AI-assisted programming
 
 ## Using This Repository
